@@ -1,3 +1,4 @@
+// You need to input the sudoku puzzle having 0 at empty spaces
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
